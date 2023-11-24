@@ -1,5 +1,3 @@
 # DiffusionMBIR
+Description:medical image segmentation in MRI feild
 
-medical image segmentation in MRI feild
-
-Hi！
